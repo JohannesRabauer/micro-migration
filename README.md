@@ -1,3 +1,7 @@
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+# DEPRECATED
+This is no longer supported, please consider using https://github.com/xdev-software/micro-migration instead.
+
 # Micro migration
 When you think about default database setup, you probably imagine something like this:
 
